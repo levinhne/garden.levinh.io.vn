@@ -1,352 +1,114 @@
 ---
-title: "Yell"
-tags:
-  - vocabulary
-  - verb
-  - english
-  - general
-  - communication
+title: "Skill: Using \"yell\" correctly"
+tags: [english, vocabulary, verb]
+level: B1-B2
 ---
 
-# Yell /jel/
+# yell /jel/
+**Type:** Verb | **Focus:** Express how to use "yell" in real contexts.
 
-**Part of Speech:** Verb & Noun  
-**Meaning:** Hét, la to, kêu to
+## 🎯 Core Meaning
+To shout loudly, often because you are angry, excited, or in pain. Can also mean to call someone loudly from a distance.
 
-## 📖 Definition
+**Nghĩa:** Hét to, la to, kêu to (thường vì tức giận, phấn khích hoặc đau đớn).
 
-**Verb:** To shout loudly, often because you are angry, excited, or in pain.  
-**Noun:** A loud shout.
+## 💡 When to Use
+Use "yell" when:
+* Expressing anger or frustration (Diễn tả sự tức giận hoặc bực bội)
+* Getting someone's attention from a distance (Thu hút sự chú ý từ xa)
+* Calling for help in emergencies (Kêu cứu trong tình huống khẩn cấp)
+* Showing excitement or enthusiasm (Thể hiện sự phấn khích hoặc hào hứng)
+* Giving warnings or urgent messages (Đưa ra cảnh báo hoặc thông báo khẩn cấp)
 
-## 🔤 Word Forms
+## 🧩 Common Patterns & Collocations
+* **yell at someone:** To shout angrily at a person (Quát ai đó, hét vào mặt ai đó)
+  * *Don't yell at me!* (Đừng quát tôi!)
+* **yell to someone:** To call someone loudly from a distance (Hét với ai đó từ xa)
+  * *He yells to her, "What's up?"* (Anh ấy hét với cô ấy, "Có chuyện gì?")
+* **yell for something:** To call loudly requesting something (Kêu gọi cái gì đó)
+  * *She yelled for help.* (Cô ấy kêu cứu.)
+* **yell out:** To shout suddenly or loudly (Hét lên)
+  * *He yelled out in pain.* (Anh ấy hét lên vì đau.)
+* **yell back:** To shout in response (Hét lại)
+  * *She yelled back angrily.* (Cô ấy hét lại đầy tức giận.)
 
-| Form | Word | Example |
-|------|------|---------|
-| Base form | yell | Don't yell at me! |
-| Past simple | yelled | He yelled at the dog. |
-| Past participle | yelled | She has yelled too much. |
-| Present participle | yelling | Stop yelling! |
-| 3rd person singular | yells | He yells to her. |
-| Noun | yell | I heard a yell from outside. |
+## 📝 Natural Examples
+1. Don't yell at me! I didn't do anything wrong.
+   *(Đừng quát tôi! Tôi chẳng làm gì sai cả.)*
 
-## 💡 Usage Examples
+2. He yells to her from across the street, "What's up?"
+   *(Anh ấy hét với cô ấy từ bên kia đường, "Có chuyện gì?")*
 
-### Basic Usage
-```
-1. He yells to her, "What's up?"
-   (Anh ấy hét với cô ấy, "Có chuyện gì?")
+3. The coach yelled at the players for making mistakes.
+   *(Huấn luyện viên quát các cầu thủ vì mắc lỗi.)*
 
-2. Don't yell at me!
-   (Đừng hét vào mặt tôi!)
+4. She yelled for help when she saw the fire.
+   *(Cô ấy kêu cứu khi nhìn thấy đám cháy.)*
 
-3. She yelled for help.
-   (Cô ấy kêu cứu.)
-```
+5. The fans yelled with excitement when their team scored.
+   *(Các cổ động viên hét lên đầy phấn khích khi đội của họ ghi bàn.)*
 
-### In Context
-```
-4. He yells, "How's it going?"
-   (Anh ấy hét lên, "Mọi thứ thế nào?")
+## ⚖️ Compare & Contrast
+* **Vs. shout:** "Shout" is the most common and neutral term for speaking loudly. "Yell" is often stronger and implies more emotion, especially anger.
+  * *Shout* là từ phổ biến và trung tính nhất để nói về việc nói to. *Yell* thường mạnh hơn và gợi ý nhiều cảm xúc hơn, đặc biệt là sự tức giận.
 
-5. The coach yelled at the players.
-   (Huấn luyện viên quát các cầu thủ.)
+* **Vs. scream:** "Scream" is extremely loud and usually from fear, pain, or terror. "Yell" can be from various emotions including anger or excitement.
+  * *Scream* rất to và thường do sợ hãi, đau đớn hoặc kinh hoàng. *Yell* có thể do nhiều cảm xúc khác nhau bao gồm tức giận hoặc phấn khích.
 
-6. I could hear them yelling from across the street.
-   (Tôi có thể nghe họ hét từ bên kia đường.)
+* **Vs. holler:** "Holler" is informal American English, mostly used in casual or regional speech. "Yell" is standard across all English varieties.
+  * *Holler* là tiếng Anh-Mỹ thân mật, chủ yếu dùng trong nói chuyện bình dân hoặc vùng miền. *Yell* là từ chuẩn dùng trong mọi loại tiếng Anh.
 
-7. Stop yelling! I can hear you perfectly.
-   (Đừng la to! Tôi nghe bạn rất rõ.)
-```
+* **Vs. cry out:** "Cry out" suggests a sudden, involuntary loud sound, often from pain or surprise. "Yell" is more deliberate and intentional.
+  * *Cry out* gợi ý âm thanh to đột ngột, không tự chủ, thường do đau hoặc ngạc nhiên. *Yell* có chủ đích và có ý thức hơn.
 
-### As a Noun
-```
-8. He gave a loud yell.
-   (Anh ấy hét to một tiếng.)
+## ⚠️ Common Mistakes
+* ❌ **Incorrect:** He yells on me.
+* ✅ **Correct:** He yells at me.
+* 💡 **Why:** Use "yell at" when expressing anger toward someone. Use "yell to" when calling someone from a distance.
+  * Dùng "yell at" khi thể hiện sự tức giận với ai đó. Dùng "yell to" khi gọi ai đó từ xa.
 
-9. We heard yells coming from the building.
-   (Chúng tôi nghe thấy tiếng la hét từ tòa nhà.)
-```
+* ❌ **Incorrect:** Don't yell me.
+* ✅ **Correct:** Don't yell at me.
+* 💡 **Why:** "Yell" requires a preposition when followed by a person. You can't just say "yell someone."
+  * "Yell" cần giới từ khi theo sau là người. Bạn không thể chỉ nói "yell someone".
 
-## 🔄 Synonyms (Từ đồng nghĩa)
+* ❌ **Incorrect:** She yelled to help.
+* ✅ **Correct:** She yelled for help.
+* 💡 **Why:** Use "yell for" when requesting something or calling for assistance.
+  * Dùng "yell for" khi yêu cầu cái gì đó hoặc kêu gọi sự giúp đỡ.
 
-| Word | Pronunciation | Usage Note |
-|------|---------------|------------|
-| **shout** | /ʃaʊt/ | Most common, general term |
-| **scream** | /skriːm/ | Very loud, often from fear/pain |
-| **shriek** | /ʃriːk/ | High-pitched loud cry |
-| **holler** | /ˈhɑːlər/ | Informal, American English |
-| **cry out** | /kraɪ aʊt/ | Sudden loud voice |
-| **call out** | /kɔːl aʊt/ | Shout to get attention |
-| **bellow** | /ˈbeloʊ/ | Deep, loud roar (like a bull) |
-| **roar** | /rɔːr/ | Very loud, powerful voice |
+* ❌ **Incorrect:** The teacher yelled the students.
+* ✅ **Correct:** The teacher yelled at the students.
+* 💡 **Why:** Always use a preposition (at/to/for) after "yell" when referring to people.
+  * Luôn dùng giới từ (at/to/for) sau "yell" khi nói về con người.
 
-### Examples with Synonyms
-```
-- He shouted across the field.
-- She screamed in terror.
-- The children shrieked with excitement.
-- He hollered, "Come here!"
-- Someone cried out for help.
-- The sergeant bellowed orders.
-```
+## 🏋️ Practice
+**Fill in the blanks:**
+1. Don't yell ___________ me! I'm trying to help.
+   *(Đừng hét ___________ tôi! Tôi đang cố giúp đỡ.)*
 
-## ⚖️ Antonyms (Từ trái nghĩa)
+2. He yells ___________ her from across the street.
+   *(Anh ấy hét ___________ cô ấy từ bên kia đường.)*
 
-| Word | Pronunciation | Meaning |
-|------|---------------|---------|
-| **whisper** | /ˈwɪspər/ | Nói thầm |
-| **murmur** | /ˈmɜːrmər/ | Nói nhỏ |
-| **mumble** | /ˈmʌmbl/ | Nói lầm bầm |
-| **mutter** | /ˈmʌtər/ | Lẩm bẩm |
-| **speak softly** | /spiːk ˈsɔːftli/ | Nói nhẹ nhàng |
+3. She yelled ___________ help when she saw the fire.
+   *(Cô ấy kêu ___________ cứu khi nhìn thấy đám cháy.)*
 
-### Examples with Antonyms
-```
-- She whispered in my ear.
-- He murmured something I couldn't hear.
-- Stop mumbling and speak clearly!
-```
+4. The coach yelled ___________ the players for making mistakes.
+   *(Huấn luyện viên quát ___________ các cầu thủ vì mắc lỗi.)*
 
-## 📊 Collocations (Từ đi kèm)
+**Rewrite:**
+* Rewrite this sentence using "yell": "He shouted angrily at his brother."
+  *(Viết lại câu này dùng "yell": "Anh ấy hét giận dữ với em trai mình.")*
 
-### Yell + Preposition
-```
-- yell at someone (quát ai đó)
-  → Don't yell at me!
-  
-- yell to someone (hét với ai đó)
-  → He yells to her.
-  
-- yell for something (kêu gọi cái gì)
-  → She yelled for help.
-  
-- yell out (hét lên)
-  → He yelled out in pain.
-  
-- yell back (hét lại)
-  → She yelled back angrily.
-```
-
-### Adverb + Yell
-```
-- yell loudly
-- yell angrily
-- yell excitedly
-- yell frantically
-- yell desperately
-```
-
-### Common Phrases
-```
-- yell instructions
-- yell orders
-- yell insults
-- yell encouragement
-- yell warnings
-- yell profanities
-```
-
-## 🗣️ Common Phrases & Expressions
-
-### 1. "Yell your head off"
-**Meaning:** Hét rất to  
-**Example:** "The fans were yelling their heads off."
-
-### 2. "Yell at the top of your lungs"
-**Meaning:** Hét hết sức  
-**Example:** "He yelled at the top of his lungs for help."
-
-### 3. "Don't yell at me"
-**Meaning:** Đừng quát tôi  
-**Example:** "I made a mistake, but don't yell at me!"
-
-### 4. "Yell and scream"
-**Meaning:** La hét inh ỏi  
-**Example:** "The children were yelling and screaming in the playground."
-
-### 5. "Yell bloody murder"
-**Meaning:** Kêu thét thảm thiết  
-**Example:** "When she saw the spider, she yelled bloody murder."
-
-## 💬 Conversation Examples
-
-### Dialogue 1: From the Story
-```
-He yells to her, "What's up?"
-She ignores him.
-He yells, "How's it going?"
-She keeps going and ignores him.
-```
-
-### Dialogue 2: Parent and Child
-```
-Parent: Stop yelling in the house!
-Child: But I'm excited!
-Parent: You can be excited without yelling.
-```
-
-### Dialogue 3: At Work
-```
-A: Why are you yelling at me?
-B: I'm not yelling! I'm just speaking loudly.
-A: Well, it sounds like yelling to me.
-B: Sorry, I'll lower my voice.
-```
-
-### Dialogue 4: Emergency
-```
-A: Did you hear that?
-B: What?
-A: Someone yelled for help!
-B: Let's go check!
-```
-
-## ✍️ Usage Notes
-
-### When to use "yell"
-
-1. **Anger/Frustration**
-   - "He yelled at his employees." ✓
-   - Common when someone is upset
-
-2. **Getting Attention**
-   - "She yelled to get his attention." ✓
-   - Used when someone is far away
-
-3. **Excitement/Joy**
-   - "Fans yelled with excitement." ✓
-   - Can be positive emotion
-
-4. **Emergency/Warning**
-   - "He yelled 'Fire!'" ✓
-   - Alert others to danger
-
-### Yell vs Shout vs Scream
-
-| Word | Volume | Context |
-|------|--------|---------|
-| **Yell** | Very loud | Anger, attention, distance |
-| **Shout** | Loud | General, most common |
-| **Scream** | Extremely loud | Fear, pain, extreme emotion |
-
-**Examples:**
-- "He yelled at the referee." (anger)
-- "She shouted hello from across the street." (distance)
-- "They screamed when they saw the ghost." (fear)
-
-### Common Mistakes
-
-❌ "He yells on me" (wrong preposition)  
-✓ "He yells at me"
-
-❌ "Don't yell me" (missing preposition)  
-✓ "Don't yell at me"
-
-❌ "He is yelling on her" (wrong preposition)  
-✓ "He is yelling at her" or "He is yelling to her"
-
-### Preposition Rules
-
-- **Yell AT** = angry, directing anger
-  → "Stop yelling at me!"
-  
-- **Yell TO** = calling someone, getting attention
-  → "He yells to her, 'What's up?'"
-  
-- **Yell FOR** = requesting, calling for something
-  → "She yelled for help."
-
-## 🎯 Practice Exercises
-
-### Exercise 1: Choose the correct preposition
-1. Don't yell (at/to/for) me!
-2. He yells (at/to/for) her from across the street.
-3. She yelled (at/to/for) help.
-4. The coach yells (at/to/for) the players during practice.
-
+---
 <details>
-<summary>Answers</summary>
+<summary>🔑 Answer Key</summary>
+
 1. at
 2. to
 3. for
 4. at
+**Rewrite:** He yelled at his brother.
+*(Viết lại: Anh ấy quát em trai mình.)*
+
 </details>
-
-### Exercise 2: Past or Present?
-1. He _____ (yell) at me yesterday.
-2. She _____ (yell) right now. Stop her!
-3. They _____ (yell) for help last night.
-4. Why are you _____ (yell)?
-
-<details>
-<summary>Answers</summary>
-1. yelled
-2. is yelling / yells
-3. yelled
-4. yelling
-</details>
-
-### Exercise 3: Fill in the blanks
-1. He _____ to her, "What's up?"
-2. Don't _____ at your brother!
-3. She _____ out in pain.
-4. I heard someone _____ for help.
-
-<details>
-<summary>Answers</summary>
-1. yells
-2. yell
-3. yelled
-4. yelling/yell
-</details>
-
-## 📊 Intensity Comparison
-
-From Quiet to Loud:
-
-```
-Whisper → Murmur → Speak → Talk loudly → Shout → Yell → Scream → Shriek
-(thầm)  (nhỏ)     (nói)   (nói to)      (hét)   (la to) (kêu thét) (rít lên)
-```
-
-## 🌍 Cultural Notes
-
-### Politeness
-- Yelling is generally considered **rude** in most English-speaking cultures
-- Yelling at strangers on the street (like in the story) is **inappropriate**
-- In professional settings, yelling is **highly unprofessional**
-
-### When Yelling is Acceptable
-- Sports events (cheering for teams)
-- Emergencies (calling for help)
-- Long distances (when someone can't hear)
-- Concerts/loud environments
-
-### Regional Differences
-- **American English**: "holler" is common in Southern US
-- **British English**: "shout" is more common than "yell"
-- Some cultures view any loud talking as yelling
-
-## 📚 Related Vocabulary
-
-- [[General|🗣️ General Vocabulary]]
-- **Shout** - Hét
-- **Scream** - Kêu thét
-- **Whisper** - Nói thầm
-- **Talk** - Nói chuyện
-- **Speak** - Nói
-- **Cry** - Kêu, khóc
-- **Voice** - Giọng nói
-- **Loud** - To, ồn
-
-## 🔗 Found in Stories
-
-- [[A Kiss|📖 A Kiss]]: "He yells to her, 'What's up?'" / "He yells, 'How's it going?'"
-
----
-
-**Level:** Beginner  
-**Frequency:** Common  
-**Register:** Informal to neutral (can be rude depending on context)
-
-#vocabulary #verb #english #communication #sound #emotion
